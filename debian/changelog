@@ -1,0 +1,48 @@
+sugar-physics-activity (32.1~dfsg-0~0quozl0) xenial; urgency=medium
+
+  * New upstream release
+
+ -- James Cameron <quozl@laptop.org>  Fri, 09 Jun 2017 19:03:38 +1000
+
+sugar-physics-activity (31-0~quozl2) xenial; urgency=medium
+
+  * Merge upstream patches to 5c207cd
+
+ -- James Cameron <quozl@laptop.org>  Tue, 25 Apr 2017 13:54:06 +1000
+
+sugar-physics-activity (31-0~quozl1) xenial; urgency=medium
+
+  * Merge upstream patches to e63b1b8
+
+ -- James Cameron <quozl@laptop.org>  Fri, 24 Mar 2017 08:35:47 +1100
+
+sugar-physics-activity (31-0~quozl0) xenial; urgency=medium
+
+  * New upstream release
+
+ -- James Cameron <quozl@laptop.org>  Wed, 28 Dec 2016 13:59:57 +1100
+
+sugar-physics-activity (30-0~quozl3) xenial; urgency=medium
+
+  * Rebuild.
+
+ -- James Cameron <quozl@laptop.org>  Mon, 09 May 2016 13:46:10 +1000
+
+sugar-physics-activity (30-0~quozl2) xenial; urgency=medium
+
+  * rebuild
+  * postinst: notify Sugar Bundle Registry
+
+ -- James Cameron <quozl@laptop.org>  Fri, 01 Apr 2016 16:45:09 +1100
+
+sugar-physics-activity (30-0~quozl1) trusty; urgency=medium
+
+  * New upstream version
+
+ -- James Cameron <quozl@laptop.org>  Wed, 09 Mar 2016 13:42:17 +1100
+
+sugar-physics-activity (26-1~godiard1) UNRELEASED; urgency=low
+
+  * Initial version for Debian.
+
+ -- Debian Sugar Team <pkg-sugar-devel@lists.alioth.debian.org>  Fri, 17 Jul 2015 12:14:51 -0300

@@ -1,0 +1,10 @@
+#!/bin/sh
+
+set -e
+
+# notify Sugar Bundle Registry
+if [ "$1" = "configure" ]; then
+    touch /usr/share/sugar/activities/Physics.activity
+fi
+
+exit 0
